@@ -1,0 +1,201 @@
+.weblogo{
+    width: 65px;
+}
+.navbar {
+    background-color: #0000009c !important;
+  }
+  
+  .navbar-nav li {
+    padding: 0 10px;
+  }
+  
+  .navbar-nav li a {
+    color: #fff !important;
+    font-weight: lighter;
+    font-size: 15px;
+  }
+  .a{
+    text-align: center;
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+}
+.b{
+    text-align: justify;
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+}
+.img{
+    width: 80%;
+}
+.hh{
+   background: url(https://pn-paul.netlify.app/image/slider1.jpg);
+   width: 100%;
+   height: 650px;
+   background-position: center;
+   background-size: cover;
+}
+.banner2{
+    background: url("https://static.dezeen.com/uploads/2019/07/lucky-cat-restaurant-interiors-london-afroditi-krassa_dezeen_hero-1-852x479.jpg" );
+    width: 100%;
+    display: block;
+
+    /* height: 500px; */
+    
+}
+
+.c{
+ margin-top: 108px;
+ font-family: prague;
+ color: white;
+font-size: 50px;
+}
+.ms{
+    color: white;
+    line-height: 40px;
+    letter-spacing: 1px;
+}
+.cc{
+    background: url(https://pn-paul.netlify.app/image/ffback2.png);
+    width: 100%;
+    
+}
+.moblogo{
+    display: none;
+}
+@media(max-width:768px){
+    .img{
+        width: 100%;
+    }
+    .moblogo{
+        display: block;
+    }
+    .weblogo{
+        display: none;
+    }
+    .navbar{
+        background-color: #fcb21b !important;
+    }
+    .mobiimg{
+        margin-top: 78px;
+        width: 20px;
+    }
+}
+
+
+/* about */
+.ccc{
+    background-image: url("https://pn-paul.netlify.app/image/ourimage.jpg");
+    width: 100%;
+    height: 650px;
+    background-position: center;
+    background-size: cover;
+}
+
+.img{
+    width: 90%;
+    height: 90%;
+}
+.img2{
+    background-image: url("https://pn-paul.netlify.app/image/gamebanner.jpg");
+    width: 100%;
+}
+.banner3{
+    background-image: url("https://pn-paul.netlify.app/image/gamebanner.jpg");
+    width: 100%;
+    height: 400px;
+}
+
+
+/* brand */
+
+.ccc1{
+    background-image: url("https://pn-paul.netlify.app/image/brands.jpg");
+    width: 100%;
+    height: 630px;
+    background-position: center;
+    background-size: cover;
+}
+.ccc2{
+    background-image: url("https://pn-paul.netlify.app/image/new-our-team.jpg");
+    width: 100%;
+    height: 630px;
+    background-position: center;
+    background-size: cover;
+}
+/* our team */
+.c2{
+    text-align: justify;
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+}
+.photos-1{
+    background: url(https://pn-paul.netlify.app/image/YPAshok.jpg);
+    width: 100%;
+    height: 8.8cm;
+    background-position: center;
+    background-size: cover;
+}
+.photos-2{
+    background: url(https://pn-paul.netlify.app/image/B.R.-Sachdeva.jpg);
+    width: 100%;
+    height: 8.8cm;
+    background-position: center;
+    background-size: cover;
+}
+.photos-3{
+    background: url(https://pn-paul.netlify.app/image/Sagar-Bajaj.jpg);
+    width: 100%;
+    height: 8.8cm;
+    background-position: center;
+    background-size: cover;
+}
+.photos-4{
+    background: url(https://pn-paul.netlify.app/image/JAY-PHOTO-1-1.jpg);
+    width: 100%;
+    height: 8.8cm;
+    background-position: center;
+    background-size: cover;
+}
+.photos-5{
+    background: url(https://pn-paul.netlify.app/image/vibhutiPR.jpg);
+    width: 100%;
+    height: 8.8cm;
+    background-position: center;
+    background-size: cover;
+}
+
+
+
+
+.bannerpress{
+    background-image: url("https://pn-paul.netlify.app/image/press-new-1.jpg");
+    width: 100%;
+    height: 630px;
+    background-position: center;
+    background-size: cover;
+}
+
+
+
+.bannercontact{
+    background-image: url("https://pn-paul.netlify.app/image/CONTACT-US.jpg");
+    width: 100%;
+    height: 620px;
+    background-position: center;
+    background-size: cover;
+}
+.bannercarrer{
+    background-image: url("https://pn-paul.netlify.app/image/new-careers-1.jpg");
+    width: 100%;
+    height: 620px;
+    background-position: center;
+    background-size: cover;
+}
+
+
